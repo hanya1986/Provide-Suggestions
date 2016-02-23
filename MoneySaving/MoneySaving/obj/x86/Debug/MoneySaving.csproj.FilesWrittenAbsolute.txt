@@ -1,0 +1,8 @@
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/bin/Debug/MoneySaving.exe.mdb
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/bin/Debug/MoneySaving.exe
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/obj/x86/Debug/MoneySaving.exe
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/obj/x86/Debug/MoneySaving.exe.mdb
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/bin/Debug/RestSharp.dll
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/bin/Debug/Newtonsoft.Json.dll
+/Users/chengyihao/Projects/MoneySaving/MoneySaving/bin/Debug/YelpSharp.dll
